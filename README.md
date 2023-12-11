@@ -1,13 +1,13 @@
-<img src="https://github.com/MudithaMethsara/MudithaMethsara/blob/main/img/gitHubCover.png" alt="Cover Image">
+<img src="https://github.com/NethuChamu/NethuChamu/blob/main/img/gitHubCover.png" alt="Cover Image">
 <h1 align="center">
     <!--<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&pause=1000&color=F70000&random=false&width=500&height=70&lines=Hey+There!%F0%9F%91%8B;I'm+Muditha+Methsara!;A+passionate+Back-End+developer." alt="Typing SVG" />-->
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F70000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muditha+Methsara!;+Back-End+Developer." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F70000&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chamudi+Kaushalya!;+Back-End+Developer+Front-End+Developer." />
 </h1>
 <!-- <h1 align="center">Hi 👋, I'm Muditha Methsara</h1> -->
 <!--<h3 align="center">A passionate backend developer from SriLanka</h3>-->
 <!--<img align="right" alt="Coding" width="400" src="https://media.tenor.com/f0cKyHniahEAAAAd/background-khaoticfuture.gif">-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudithamethsara&label=Profile%20views&color=0e75b6&style=flat" alt="mudithamethsara" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nethuchamu&label=Profile%20views&color=0e75b6&style=flat" alt="mudithamethsara" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudithamethsara" alt="mudithamethsara" /></a> </p>-->
 
